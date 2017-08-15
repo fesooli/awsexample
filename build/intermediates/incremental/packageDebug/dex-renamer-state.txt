@@ -1,0 +1,7 @@
+#Tue Aug 15 12:41:04 BRT 2017
+base.0=/home/fellipe/Projetos/aws/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_005dcb805c36de691bc9c5269b552aae2b6e263d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/fellipe/Projetos/aws/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a41139cababaf0496b85734b003840459310f07c/classes.dex
+base.1=/home/fellipe/Projetos/aws/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a41139cababaf0496b85734b003840459310f07c
+file.0=/home/fellipe/Projetos/aws/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_005dcb805c36de691bc9c5269b552aae2b6e263d/classes.dex

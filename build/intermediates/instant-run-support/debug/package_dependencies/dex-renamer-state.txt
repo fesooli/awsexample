@@ -1,0 +1,10 @@
+#Tue Aug 15 12:41:03 BRT 2017
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes2.dex
+base.2=/home/fellipe/Projetos/aws/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.2.22_0dbaf4a2765481c2497404ef142079a7a5b60496
+base.1=/home/fellipe/Projetos/aws/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-s3-2.2.22_e08dc6e1b543dee5fdc091a24e5416bef58db255
+base.0=/home/fellipe/Projetos/aws/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_ee0179183cc12d87b762899f0e71bd373d3fee7f
+file.2=/home/fellipe/Projetos/aws/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.2.22_0dbaf4a2765481c2497404ef142079a7a5b60496/classes.dex
+file.1=/home/fellipe/Projetos/aws/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-s3-2.2.22_e08dc6e1b543dee5fdc091a24e5416bef58db255/classes.dex
+file.0=/home/fellipe/Projetos/aws/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_ee0179183cc12d87b762899f0e71bd373d3fee7f/classes.dex

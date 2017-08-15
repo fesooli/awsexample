@@ -1,0 +1,4 @@
+#Tue Aug 15 12:41:03 BRT 2017
+base.0=/home/fellipe/Projetos/aws/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/home/fellipe/Projetos/aws/aws-sdk-android-samples/S3TransferUtilitySample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
